@@ -1,0 +1,15 @@
+C:\Users\snr7\source\repos\degreecalc\bin\Debug\net6.0\degreecalc.exe
+C:\Users\snr7\source\repos\degreecalc\bin\Debug\net6.0\degreecalc.deps.json
+C:\Users\snr7\source\repos\degreecalc\bin\Debug\net6.0\degreecalc.runtimeconfig.json
+C:\Users\snr7\source\repos\degreecalc\bin\Debug\net6.0\degreecalc.dll
+C:\Users\snr7\source\repos\degreecalc\bin\Debug\net6.0\ref\degreecalc.dll
+C:\Users\snr7\source\repos\degreecalc\bin\Debug\net6.0\degreecalc.pdb
+C:\Users\snr7\source\repos\degreecalc\obj\Debug\net6.0\degreecalc.csproj.AssemblyReference.cache
+C:\Users\snr7\source\repos\degreecalc\obj\Debug\net6.0\degreecalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snr7\source\repos\degreecalc\obj\Debug\net6.0\degreecalc.AssemblyInfoInputs.cache
+C:\Users\snr7\source\repos\degreecalc\obj\Debug\net6.0\degreecalc.AssemblyInfo.cs
+C:\Users\snr7\source\repos\degreecalc\obj\Debug\net6.0\degreecalc.csproj.CoreCompileInputs.cache
+C:\Users\snr7\source\repos\degreecalc\obj\Debug\net6.0\degreecalc.dll
+C:\Users\snr7\source\repos\degreecalc\obj\Debug\net6.0\ref\degreecalc.dll
+C:\Users\snr7\source\repos\degreecalc\obj\Debug\net6.0\degreecalc.pdb
+C:\Users\snr7\source\repos\degreecalc\obj\Debug\net6.0\degreecalc.genruntimeconfig.cache
